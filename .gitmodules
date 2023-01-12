@@ -1,0 +1,6 @@
+[submodule "videoapp-backend"]
+	path = videoapp-backend
+	url = https://github.com/anjolaoluwaakindipe/videoapp-backend.git
+[submodule "videoapp-frontend"]
+	path = videoapp-frontend
+	url = https://github.com/anjolaoluwaakindipe/videoapp-frontend.git
